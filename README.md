@@ -1,7 +1,7 @@
 # code-sample-yelp
 Sample Coding Exercise
 
-To get this projec to work you will need to add the api.json file to the root directory of the project
+To get this project to work you will need to add the api.json file to the root directory of the project (Sent to recruiter)
 
 Challenges
 - Ive never used the Yelp API
